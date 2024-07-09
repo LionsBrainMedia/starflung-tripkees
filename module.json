@@ -1,0 +1,116 @@
+{
+  "id": "starflung-tripkees-of-tian-xia",
+  "title": "Starflung Tripkees of Tian Xia",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "description": "Foundry VTT support for Starflung Tripkees of Tian Xia, from Lion's Brain Media on Pathfinder Infinite.",
+  "url": "https://raw.githubusercontent.com/LionsBrainMedia/starflung-tripkees-of-tian-xia/master/module.json",
+  "packs": [
+    {
+      "name": "class-options",
+      "label": "Class Options",
+      "path": "packs/class-options",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "tripkee-ancestry-feats",
+      "label": "Tripkee Ancestry Feats",
+      "path": "packs/tripkee-ancestry-feats",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "equipment",
+      "label": "Equipment",
+      "path": "packs/equipment",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "disaster-recoverer-archetype",
+      "label": "Disaster Recoverer Archetype",
+      "path": "packs/disaster-recoverer-archetype",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "kaiju-caller-archetype",
+      "label": "Kaiju Caller Archetype",
+      "path": "packs/kaiju-caller-archetype",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "storm-bracer-archetype",
+      "label": "Storm Bracer Archetype",
+      "path": "packs/storm-bracer-archetype",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "npcs",
+      "label": "NPCs",
+      "path": "packs/npcs",
+      "type": "Actor",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "backgrounds",
+      "label": "Backgrounds",
+      "path": "packs/backgrounds",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "W. Brian Lane",
+      "discord": "BrianLane"
+    }
+  ]
+}
