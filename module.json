@@ -112,5 +112,8 @@
       "name": "W. Brian Lane",
       "discord": "BrianLane"
     }
-  ]
+  ],
+  "url": "https://github.com/LionsBrainMedia/starflung-tripkees",
+  "manifest": "https://raw.githubusercontent.com/LionsBrainMedia/starflung-tripkees/master/module.json",
+  "download": "https://github.com/LionsBrainMedia/starflung-tripkees/archive/refs/heads/main.zip"
 }
