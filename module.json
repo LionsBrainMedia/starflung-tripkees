@@ -7,7 +7,6 @@
     "verified": "11"
   },
   "description": "Foundry VTT support for Starflung Tripkees of Tian Xia, from Lion's Brain Media on Pathfinder Infinite.",
-  "url": "https://raw.githubusercontent.com/LionsBrainMedia/starflung-tripkees-of-tian-xia/master/module.json",
   "packs": [
     {
       "name": "class-options",
@@ -112,5 +111,8 @@
       "name": "W. Brian Lane",
       "discord": "BrianLane"
     }
-  ]
+  ],
+  "url": "https://github.com/LionsBrainMedia/starflung-tripkees",
+  "manifest": "https://raw.githubusercontent.com/LionsBrainMedia/starflung-tripkees/master/module.json",
+  "download": "https://github.com/LionsBrainMedia/starflung-tripkees/archive/refs/heads/main.zip"
 }
