@@ -1,10 +1,10 @@
 {
   "id": "starflung-tripkees-of-tian-xia",
   "title": "Starflung Tripkees of Tian Xia",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
-    "minimum": "11",
-    "verified": "11"
+    "minimum": "12",
+    "verified": "12"
   },
   "description": "Foundry VTT support for Starflung Tripkees of Tian Xia, from Lion's Brain Media on Pathfinder Infinite.",
   "packs": [
